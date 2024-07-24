@@ -4,6 +4,12 @@ import qrcode
 from tkinter import *
 import tkinter as tk
 
+window = Tk()
+window.title("2FA App")
+window.geometry("500x500")
+window.resizable(True, True)
+window.iconbitmap("knivzz.ico")
+
 key = "JBSWY3DPEHPK3PXP"
 
 name = input("Enter your name: ")
