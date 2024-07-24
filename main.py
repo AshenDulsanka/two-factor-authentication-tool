@@ -7,7 +7,7 @@ from PIL import Image, ImageTk
 
 window = Tk()
 window.title("2FA App")
-window.geometry("500x500")
+window.geometry("1000x900")
 window.resizable(True, True)
 window.iconbitmap("knivzz.ico")
 
