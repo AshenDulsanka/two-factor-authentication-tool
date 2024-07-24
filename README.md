@@ -29,7 +29,7 @@ Make sure you have the following installed on your system:
 
 2. **Install the required dependencies:**
 
-You can install the dependencies using pip. Run the following command in your terminal:
+    You can install the dependencies using pip. Run the following command in your terminal:
 
     ```bash
     pip install pyotp qrcode pillow
@@ -37,7 +37,7 @@ You can install the dependencies using pip. Run the following command in your te
 
 3. **Run the application:**
 
-Execute the Python script to start the 2FA app:
+    Execute the Python script to start the 2FA app:
 
     ```bash
     python main.py
