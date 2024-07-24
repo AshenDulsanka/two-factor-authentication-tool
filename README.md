@@ -1,6 +1,6 @@
 # Two Factor Authentication tool
 
-This is a simple Python application that generates a QR code for Two-Factor Authentication (2FA) using the TOTP algorithm. You can use this application to secure your accounts with an additional layer of authentication.
+This is a simple Python application that generates a QR code for Two-Factor Authentication (2FA) using the TOTP algorithm. 
 
 ## Features
 
@@ -105,6 +105,10 @@ This project is licensed under the MIT License - see the <a href="LICENSE">LICEN
 
 - This application uses the <a href="https://github.com/pyauth/pyotp">pyotp</a> library for TOTP generation.
 - The QR code generation is powered by the <a href="https://github.com/lincolnloop/python-qrcode">qrcode</a> library.
+
+## Purpose
+
+This project was created for me to learn about Python and Tkinter. It serves as a learning tool to understand GUI application development and two factor authentication.
 
 
 ## Contributing
