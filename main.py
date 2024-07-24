@@ -1,6 +1,8 @@
 import time
 import pyotp
 import qrcode
+from tkinter import *
+import tkinter as tk
 
 key = "JBSWY3DPEHPK3PXP"
 
